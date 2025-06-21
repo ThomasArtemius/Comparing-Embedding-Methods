@@ -1,5 +1,9 @@
 # Comparing-Embedding-Methods
-Comparing Embedding Methods for Indonesian Text Classification
+Comparing Embedding Methods for Indonesian Text Classification. For this task, we arbitrarily choose only use data from month November, just for efficiency. In here we apply FastText, IndoBERT, and mBERT into LSTM; sBERT and TF-IDF in SVM.
+## Results
+### LSTM
+### SVM
+
 # About the data
 This corpus is derived from several freely accessible Indonesian news website for research purpose only. The news websites are: 
 
