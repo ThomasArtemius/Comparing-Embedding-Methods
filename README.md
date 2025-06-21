@@ -2,8 +2,9 @@
 Comparing Embedding Methods for Indonesian Text Classification. For this task, we arbitrarily choose only use data from month November, just for efficiency. In here we apply FastText, IndoBERT, and mBERT into LSTM; sBERT and TF-IDF in SVM.
 ## Results
 ### LSTM
+![](https://github.com/ThomasArtemius/Comparing-Embedding-Methods/blob/main/LSTM/Embeddings%20on%20LSTM.png)
 ### SVM
-
+![]()
 # About the data
 This corpus is derived from several freely accessible Indonesian news website for research purpose only. The news websites are: 
 
