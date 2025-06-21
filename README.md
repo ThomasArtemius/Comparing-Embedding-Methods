@@ -4,7 +4,7 @@ Comparing Embedding Methods for Indonesian Text Classification. For this task, w
 ### LSTM
 ![](https://github.com/ThomasArtemius/Comparing-Embedding-Methods/blob/main/LSTM/Embeddings%20on%20LSTM.png)
 ### SVM
-![]()
+![](https://github.com/ThomasArtemius/Comparing-Embedding-Methods/blob/main/SVM/Embeddings%20on%20SVM.png)
 # About the data
 This corpus is derived from several freely accessible Indonesian news website for research purpose only. The news websites are: 
 
