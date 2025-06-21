@@ -16,7 +16,7 @@ MUZAD, Aad Miqdad Muadz; RAHUTOMO, Faisal. Korpus Berita Daring Bahasa Indonesia
 
 We crawled several categories of the websites for 6 months from July 2015 until December 2015. The corpus contains 150,466 news articles. The authors are not responsible for any further use of this corpus against laws.
 
-The corpus is stored in JSON and XML format. The JSON format has this structure:
+The corpus is stored in JSON and XML format. The JSON format has this structure: \
 { \
 “sumber”: “”, \
 “Tanggal”: “”, \
